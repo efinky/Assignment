@@ -5,3 +5,7 @@ to run it you need to:
 - then run npx webpack
 - open index.html in a browser
 
+Tools Used:
+- bootstrap
+- visual studio code
+- webpack
